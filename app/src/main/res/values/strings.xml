@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">OptionsMenu</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_check_button">CheckButton</string>
+    <string name="title_activity_radio_button">RadioButton</string>
+</resources>
